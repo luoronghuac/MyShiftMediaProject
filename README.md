@@ -1,0 +1,2 @@
+# MyShiftMediaProject
+ShiftMediaProject bug fix
